@@ -11,8 +11,6 @@ This application allows users to search, filter, and sort job listings efficient
 
 👉 https://github.com/aishwaryashivareddi/job-listing-ui  
 
----
-
 ## ✨ Features
 
 - 🔍 Search jobs by title
@@ -22,7 +20,6 @@ This application allows users to search, filter, and sort job listings efficient
 - ♻ Clear all filters
 - 📱 Responsive and clean UI
 
----
 
 ## 🛠 Tech Stack
 
@@ -31,8 +28,6 @@ This application allows users to search, filter, and sort job listings efficient
 - HTML5
 - CSS3
 - Create React App
-
----
 
 ## 📦 Installation & Setup
 
@@ -43,22 +38,15 @@ git clone https://github.com/aishwaryashivareddi/job-listing-ui.git
 
 
 Navigate to project folder:
-
 cd job-listing-ui
 
-
 Install dependencies:
-
 npm install
 
-
 Run the app:
-
 npm start
 
-
 Open in browser:
-
 http://localhost:3000
 
 🚀 Deployment
@@ -83,14 +71,10 @@ Use component-based architecture
 
 Deploy the application
 
-📸 Screenshots (Optional)
-
-You can add screenshots here for better presentation.
+📸 Screenshots 
+<img width="1910" height="972" alt="image" src="https://github.com/user-attachments/assets/ffce7ee5-fbf9-4359-a59b-2a63ea8eb775" />
 
 👩‍💻 Author
 
 Aishwarya Shivareddi
 Frontend Developer | React Enthusiast | Fullstack Developer 
-
-
----
