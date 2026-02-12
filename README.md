@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+# Job Listing UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive Job Listing web application built using React.  
+This application allows users to search, filter, and sort job listings efficiently.
 
-## Available Scripts
+## 🔗 Live Demo
 
-In the project directory, you can run:
+👉 https://job-listing-ui-phi.vercel.app  
 
-### `npm start`
+##  GitHub Repository
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+👉 https://github.com/aishwaryashivareddi/job-listing-ui  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## ✨ Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🔍 Search jobs by title
+- 📍 Filter by location
+- 💼 Filter by job type (Full-time / Internship)
+- 🔤 Sort jobs alphabetically (A–Z)
+- ♻ Clear all filters
+- 📱 Responsive and clean UI
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠 Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- Create React App
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 📦 Installation & Setup
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Clone the repository:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git clone https://github.com/aishwaryashivareddi/job-listing-ui.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Navigate to project folder:
 
-## Learn More
+cd job-listing-ui
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Install dependencies:
 
-### Code Splitting
+npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+Run the app:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+npm start
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Open in browser:
 
-### Advanced Configuration
+http://localhost:3000
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+🚀 Deployment
 
-### Deployment
+The project is deployed using Vercel.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+To create a production build:
 
-### `npm run build` fails to minify
+npm run build
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🎯 Assignment Objective
+
+The objective of this assignment was to:
+
+Build a job listing interface using React
+
+Implement search and filtering logic
+
+Apply sorting functionality
+
+Use component-based architecture
+
+Deploy the application
+
+📸 Screenshots (Optional)
+
+You can add screenshots here for better presentation.
+
+👩‍💻 Author
+
+Aishwarya Shivareddi
+Frontend Developer | React Enthusiast | Fullstack Developer 
+
+
+---
